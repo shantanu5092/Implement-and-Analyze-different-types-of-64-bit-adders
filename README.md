@@ -21,3 +21,5 @@ The purpose of this project is to implement, optimize and analyze performance of
   4. crout 
   5. clock 
   6. reset
+  
+* Detailed description: Please go through the attached document "Adders.pdf" for the complete design specification of different types of 64-bit adders.
