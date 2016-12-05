@@ -23,3 +23,5 @@ The purpose of this project is to implement, optimize and analyze performance of
   6. reset
   
 * Detailed description: Please go through the attached document "Adders.pdf" for the complete design specification of different types of 64-bit adders.
+
+* Attached file "Project_report.docx" is the final project report.
