@@ -15,9 +15,9 @@ The purpose of this project is to implement, optimize and analyze performance of
 * Each adder will take 1 clock to complete the calculation. Analysis is performed in details for timing and area.
 
 * Circuit Interface: The exact interface ports of all adder circuits must be as below: 
-1. op1[63:0]
-2. op2[63:0]
-3. sum [63:0]
-4. crout 
-5. clock 
-6. reset
+  1. op1[63:0]
+  2. op2[63:0]
+  3. sum [63:0]
+  4. crout 
+  5. clock 
+  6. reset
