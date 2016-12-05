@@ -9,3 +9,17 @@ The purpose of this project is to implement, optimize and analyze performance of
 (3) Carry Selected Adder (CSA-EQG) with 4- bit groups and,
 
 (4) Carry Selected Adder (CSA-UEQG) with unequal-bit groups for highest speedup.
+
+## Overview of Adders
+
+* Each adder will take 1 clock to complete the calculation. Analysis is performed in details for timing and area.
+
+* Circuit Interface:
+
+The exact interface ports of all adder circuits must be as below: 
+ op1[63:0]
+ op2[63:0]
+ sum [63:0]
+ crout 
+ clock 
+ reset
