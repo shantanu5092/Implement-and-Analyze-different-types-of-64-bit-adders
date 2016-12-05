@@ -16,10 +16,10 @@ The purpose of this project is to implement, optimize and analyze performance of
 
 * Circuit Interface:
 
-The exact interface ports of all adder circuits must be as below: 
- op1[63:0]
- op2[63:0]
- sum [63:0]
- crout 
- clock 
- reset
+### The exact interface ports of all adder circuits must be as below: 
+1. op1[63:0]
+2. op2[63:0]
+3. sum [63:0]
+4. crout 
+5. clock 
+6. reset
